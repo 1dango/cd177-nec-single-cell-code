@@ -1,0 +1,2 @@
+# cd177-nec-single-cell-code
+Code Associated with the Nature Communications Publication entitled "CD177⁺ Neutrophil-Platelet Aggregates Contribute to thromboinflammation via NETs in Necrotizing Enterocolitis"

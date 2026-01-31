@@ -191,3 +191,4 @@ ggsave("results/15_neu_dotplot_tissue.pdf", p.dot, width = 7, height = 4)
 ## 15. Save final objects
 saveRDS(combined, "results/16_final_seurat_tissue.rds")
 saveRDS(neu, "results/16_final_neu_tissue.rds")
+

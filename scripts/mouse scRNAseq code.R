@@ -128,3 +128,4 @@ pvals <- sapply(genes.use, function(g) {
   y <- FetchData(neu, g)[neu$celltype == "Cd177_neu", 1]
   t.test(x, y)$p.value
 })
+

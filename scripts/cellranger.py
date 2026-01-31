@@ -1,6 +1,6 @@
 ############################################################
 ## Cell Ranger preprocessing for mouse scRNA-seq
-## Cell Ranger v5.1.0
+## Cell Ranger v5.1.0 
 ###########################################################
 cellranger mkref \
           --genome=mm10_ensembl98 \
@@ -26,4 +26,5 @@ cellranger mkref \
                                                       --expect-cells=8000 \
                                                         --localcores=16 \
                                                           --localmem=64
+
 
